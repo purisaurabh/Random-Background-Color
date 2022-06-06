@@ -1,0 +1,23 @@
+body 
+{
+    background-color: red;
+}
+
+h2 
+{
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+}
+
+button 
+{
+    margin-left: 550px;
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: black;
+    font-size: 30px;
+    color: white;
+}
